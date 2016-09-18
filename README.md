@@ -15,4 +15,4 @@ There is also a trained model *net-epoch-40.mat* in the *data* folder.
 
 [MatConvNet](http://www.vlfeat.org/matconvnet) beta-21 is included into the project.
 
-**Lisence**: This code is made available under the terms of the BSD license (see the COPYING file).
+**Lisence**: This code and MatConvNet are made available under the terms of the BSD license (see the COPYING file).
